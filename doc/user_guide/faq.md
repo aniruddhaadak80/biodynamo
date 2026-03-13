@@ -42,4 +42,4 @@ real_t A = pow(25.0 , 0.5);
 
 ## General C ++ tutorial
 
-If you are unfamiliar with the basics of the C++ language in general or simply need a refresher there are a plethora of useful guides online. For example cplusplus provides and excellent guide http://www.cplusplus.com/doc/tutorial/ , from entry level to more adept concepts for C++ including compilation, data types and much more.
+If you are unfamiliar with the basics of the C++ language in general or simply need a refresher there are a plethora of useful guides online. For example cplusplus provides and excellent guide https://cplusplus.com/doc/tutorial/ , from entry level to more adept concepts for C++ including compilation, data types and much more.

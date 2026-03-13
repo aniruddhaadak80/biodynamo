@@ -42,11 +42,11 @@ More information:
 
 ### Git Workflow
 
-We are following the Git workflow proposed by Vincent Driessen in his blog post: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) with the modification that his `develop` branch is our `master` branch.
+We are following the Git workflow proposed by Vincent Driessen in his blog post: [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) with the modification that his `develop` branch is our `master` branch.
 
 ### Git Commit Message
 
-Taken from a great blog post from [Chris Beams](http://chris.beams.io/posts/git-commit/)
+Taken from a great blog post from [Chris Beams](https://chris.beams.io/posts/git-commit/)
 
 1. Separate subject from body with a blank line
 2. Capitalize the subject line

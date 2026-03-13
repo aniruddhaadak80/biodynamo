@@ -45,7 +45,7 @@ Clear separation between the frameworks and a flexible workflow allows the user 
 
 As the OpenLB simulation is time and resource consuming we did spent a large amount of time in researching aerosol parametrization methods that should allow much faster evaluation of the viral loads in the observed spaces. However, during the this of this project we did not find a proper parametrization code.
 
-The technical paper and all codes of this project can be found in the following Zenodo online repository: [http://doi.org/10.5281/zenodo.5534456](http://doi.org/10.5281/zenodo.5534456).
+The technical paper and all codes of this project can be found in the following Zenodo online repository: [https://doi.org/10.5281/zenodo.5534456](https://doi.org/10.5281/zenodo.5534456).
 
 This work is sponsored by a grant from the [European Open Science Cloud](https://www.eoscsecretariat.eu) (EOSC).
 EOSCsecretariat.eu has received funding from the European Union's Horizon Programme call H2020-INFRAEOSC-05-2018-2019, grant Agreement number 831644.

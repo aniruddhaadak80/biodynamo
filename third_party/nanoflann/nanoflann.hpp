@@ -40,7 +40,7 @@
  *  See:
  *   - <a href="modules.html" >C++ API organized by modules</a>
  *   - <a href="https://github.com/jlblancoc/nanoflann" >Online README</a>
- *   - <a href="http://jlblancoc.github.io/nanoflann/" >Doxygen
+ *   - <a href="https://jlblancoc.github.io/nanoflann/" >Doxygen
  * documentation</a>
  */
 

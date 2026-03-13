@@ -55,7 +55,7 @@
  *
  *   Doxygen documentation for this header is available here:
  *
- *       http://khronosgroup.github.io/OpenCL-CLHPP/
+ *       https://khronosgroup.github.io/OpenCL-CLHPP/
  *
  *   The latest version of this header can be found on the GitHub releases page:
  *
